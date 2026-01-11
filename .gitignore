@@ -2,6 +2,7 @@
 venv/
 ENV/
 .env/
+.env
 
 # Pliki Pythona do ignorowania
 __pycache__/
